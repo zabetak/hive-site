@@ -39,10 +39,6 @@ Hive.
 * Read the [Getting Started Guide][GETTING_STARTED] to learn how to install Hive
 * The [User and Hive SQL documentation][HIVE_QL] shows how to program Hive
 
-## Quick start with Docker
----
-Checkout the quickstart with Docker here: [DOCKER_QUICKSTART]
-
 # Getting Involved With The Apache Hive Community
 ---
 Apache Hive is an open source project run by volunteers at the Apache
@@ -67,6 +63,5 @@ project and contribute your expertise.
 [COMMUNITY]: /community/people/
 [CONTRIBUTOR]: https://hive.apache.org/docs/latest/introduction-to-apache-hive#Home-ResourcesforContributors
 [HIVE_TWITTER]: https://twitter.com/apachehive
-[DOCKER_QUICKSTART]: /development/quickstart/
 
 
